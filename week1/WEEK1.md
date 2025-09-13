@@ -183,22 +183,12 @@ GIT, 웹개발에 대한 기초적인 이해, claude code (windows면 wsl), gemi
 - 일정 계획
 - 코드 리뷰 방식
 
-### 💻 바이브코딩 해보자~
-
-- 페어 프로그래밍
-- 라이브 코딩 세션
-- 문제 해결 과정 공유
-- 🎬 [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-
 ### ⚙️ 개발 환경설정
 
 - IDE 설정 ([VS Code](https://code.visualstudio.com/) 등)
-- [Git](https://git-scm.com/) 설정 및 브랜치 전략
-- 패키지 매니저 ([npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/), [pnpm](https://pnpm.io/))
-- 린터 및 포맷터 설정
-    - [ESLint](https://eslint.org/)
-    - [Prettier](https://prettier.io/)
-- 환경 변수 관리
-    - [dotenv](https://www.npmjs.com/package/dotenv)
+- [Git](https://git-scm.com/) 설치
+- git clone 받기. 
+
+### 💻 바이브코딩 해보자
 
 ---
